@@ -1,0 +1,49 @@
+.custom-table {
+  border-collapse: collapse;
+  border: none;
+  width: 100%;
+  table-layout: auto;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.custom-table th,
+.custom-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.custom-table th {
+  background-color: #E280BE;
+  color: white;
+  text-align: center;
+}
+
+.custom-table th:first-child {
+  border-right: white 10px solid;
+}
+
+.custom-table th:last-child {
+  border-left: white 10px solid;
+}
+
+.custom-table tr {
+  border-bottom: 2px solid #E280BE;
+}
+
+.custom-table td {
+  border: none;
+  text-align: center;
+}
+
+.custom-table button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #40CEE4;
+}
+
+.auto-width {
+  width: 50px;
+  white-space: nowrap;
+}
