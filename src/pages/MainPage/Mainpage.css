@@ -1,5 +1,5 @@
 @keyframes zoom {
   100% {
-    transform: scale(7);
+    transform: scale(10);
   }
 }
