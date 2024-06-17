@@ -99,7 +99,8 @@ const MainPage = () => {
         <NavLink href="https://gpscontrol.co/" target="_blank">
           GPS CONTROL
         </NavLink>
-        <NavLink href="#">Link repo front</NavLink>
+        <NavLink href="https://github.com/naml14/front-django-crud"
+          target="_blank">Link repo front</NavLink>
         <NavLink
           href="https://github.com/naml14/djangocrud/tree/main"
           target="_blank"
